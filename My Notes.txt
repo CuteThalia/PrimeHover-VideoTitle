@@ -1,0 +1,11 @@
+# VideoTitle
+This plugin allows you to put a video at the background of the Title Screen instead of a static image.
+
+# Link
+http://forums.rpgmakerweb.com/index.php?/topic/50338-ph-video-title/?view=findpost&p=498315
+
+# Notes
+None
+
+# License
+> Free for commercial and non-commercial use as long as you give the credits of this plugin.
